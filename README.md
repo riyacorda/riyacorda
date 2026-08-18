@@ -59,26 +59,7 @@ riya:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyacorda&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="riyacorda's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyacorda&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyacorda&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyacorda&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riyacorda&theme=tokyonight&no-frame=true&row=1&column=7" alt="riyacorda's trophies" />
 
 </div>
 
@@ -103,14 +84,8 @@ riya:
 <a href="mailto:riyacorda61@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin-here" target="_blank">
+<a href="https://linkedin.com/in/riya-corda" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/your-twitter-here" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-</a>
-<a href="https://instagram.com/your-instagram-here" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
 <sub>Swap the placeholder links above for your real profiles (or delete any you don't use).</sub>
