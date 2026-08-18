@@ -1,23 +1,126 @@
-<h1 align="center">Hi 👋, I'm Riya Corda</h1>
-<h3 align="center">A Aspiring Software Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyacorda&label=Profile%20views&color=0e75b6&style=flat" alt="riyacorda" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There!%20I'm%20Riya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Software%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=52&descSize=18&descColor=e8e8e8" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyacorda" alt="riyacorda" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer+%F0%9F%92%BB;Learning+Cyber+Security+%F0%9F%94%90;Solving+Problems%2C+One+Line+at+a+Time+%E2%9C%8D%EF%B8%8F;Open+to+Collaboration+%F0%9F%A4%9D;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Cyber Security**
+<br/>
 
-- 📫 How to reach me **riyacorda61@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=riyacorda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="riyacorda profile views" />
+<img src="https://img.shields.io/github/followers/riyacorda?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge" alt="status" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyacorda&show_icons=true&locale=en&layout=compact" alt="riyacorda" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyacorda&show_icons=true&locale=en" alt="riyacorda" /></p>
+```yaml
+riya:
+  role: "Aspiring Software Developer"
+  location: "India 🇮🇳"
+  currently_learning: "Cyber Security"
+  currently_focused_on: "Building strong fundamentals & real-world projects"
+  fun_fact: "I turn coffee ☕ and curiosity into code"
+  contact: "riyacorda61@gmail.com"
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyacorda&" alt="riyacorda" /></p>
+- 🌱 Currently learning **Cyber Security**
+- 💻 Comfortable across the stack — from **C & Java** to **Python & JavaScript**
+- 📊 Exploring data with **Pandas** & **Seaborn**
+- 🤝 Open to collaborating on beginner-friendly & open-source projects
+- 📫 Reach me at **riyacorda61@gmail.com**
+- ⚡ Fun fact: I enjoy breaking things just to understand how they work
+
+<br/>
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,mysql,git,linux&theme=dark" alt="skills" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyacorda&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="riyacorda's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyacorda&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyacorda&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyacorda&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=riyacorda&theme=tokyonight&no-frame=true&row=1&column=7" alt="riyacorda's trophies" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/riyacorda/riyacorda/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%"/>
+
+</div>
+
+> Note: the snake animation renders once you add the small GitHub Action workflow below to this repo (see setup notes at the end).
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:riyacorda61@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin-here" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/your-twitter-here" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+</a>
+<a href="https://instagram.com/your-instagram-here" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+</a>
+
+<sub>Swap the placeholder links above for your real profiles (or delete any you don't use).</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0e75b6&height=150&section=footer" width="100%"/>
+
+<div align="center">
+<sub>⭐ Thanks for stopping by — feel free to explore my repos!</sub>
+</div>
